@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Środowiskowe (zabezpieczenie kluczy API)
+.env
+
+# IDE
+.cursor/
+.vscode/
