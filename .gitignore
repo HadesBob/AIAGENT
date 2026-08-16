@@ -10,3 +10,5 @@ env/
 # IDE
 .cursor/
 .vscode/
+
+firebase-adminsdk.json
